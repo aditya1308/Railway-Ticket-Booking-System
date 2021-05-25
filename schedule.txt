@@ -1,0 +1,30 @@
+Sl No.	Train No.	From		To		Train Name
+-------------------------------------------------------------------------------
+1 	01016/15  	Gorakhpur 	Lokmanyatilak	Kushinagar Express
+2 	01019/20 	Mumbai CST 	Bhubaneswar 	Konarka Express
+3       01061/62 	Lokmanyatilak	Darbhanga 	Darbhanga Express
+4 	01071/72 	Lokmanyatilak   Varanasi 	Kamayani Express
+5 	01093/94 	Mumbai CST 	Varanasi 	Mahanagri Express
+6 	01139/40 	Mumbai CST 	Gadag		Gadag Express
+7 	01301/02 	Mumbai CST      Bengaluru	Udyan Express
+8 	02156/55 	H. Nizamuddin	Habibganj 	Bhopal Express
+9 	02230/29 	New Delhi 	Lucknow Jn 	Lucknow Mail
+10	02296/95 	Danapur  	Bengaluru 	Sanghmitra Express
+11      02377/78 	Sealdah 	New Alipurduar 	Padatik Express
+12      02392/91 	New Delhi 	Rajgir 		Shramjevi Express
+13      02394/93 	New Delhi 	Rajendra Nagar  Sampoorn Kranti Express
+14      02418/17 	New Delhi 	Prayagraj       Pragraj Expess
+15 	02420/19 	New Delhi 	Lucknow 	Gomti Express
+16 	02407/08 	ASR NJP 	Karambhum 	New Jalpaiguri Exp
+17 	02357/58 	Amritsar 	Kolkata 	Kolakata Express
+18 	02452/51        New Delhi 	Kanpur 		Shram Shakti Express
+19 	02463/64 	Jodhpur 	Delhi 		S Rohilla Samprak kranti
+20 	02477/78 	Jaipur 		Jodhpur 	Jodhpur express
+21 	02479/80 	Bandra (T) 	Jodhpur 	Suryanagri Express
+22      02533/34 	Lucknow Jn 	Mumbai CST 	Pushpak Express
+23      02555/56 	Hisar           Gorakhpur	Gorakhdham Express
+24      02560/59 	New Delhi 	Manduadih 	Shivganga Express
+25      02618/17 	H. Nizamuddin   Ernakulam 	Mangla Express
+26      04009/10 	Anand Vihar 	Motihari 	Champaran Satyagrah Express
+27      02629/30 	New Delhi 	Yesvantpur      Samprak kranti Express
+28      02701/02 	Mumbai CST 	Hyderabad       Husain Sagar Express
